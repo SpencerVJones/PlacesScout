@@ -1,4 +1,8 @@
 # Interactive Map with Folium
+  <div align="left">
+	
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Folium-Web-map)
+</div>
 This Python script utilizes the Folium library to create an interactive map visualizing places where the author has lived and visited. It generates an HTML file with embedded JavaScript code to render the map.
 
 ## Features:
