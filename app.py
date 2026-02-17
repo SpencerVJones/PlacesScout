@@ -299,12 +299,12 @@ def _profile_rows(row: pd.Series) -> List[Tuple[str, str]]:
 
 def app() -> None:
     st.set_page_config(
-        page_title="Neighborhood Scout",
+        page_title="Places Scout",
         page_icon=":world_map:",
         layout="wide",
     )
 
-    st.title("Neighborhood Scout")
+    st.title("Places Scout")
     st.caption(
         "Find cities that match your moving priorities: budget, safety, lifestyle, and LGBT friendliness."
     )
