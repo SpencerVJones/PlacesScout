@@ -14,9 +14,9 @@
   This project focuses on practical decision support: tune your constraints, adjust scoring weights, explore interactive map results, and export shortlists.
   <br />
   <br />
-  <a href="https://github.com/SpencerVJones/Folium-Web-map/issues">Report Bug</a>
+  <a href="https://github.com/SpencerVJones/PlacesScout/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SpencerVJones/Folium-Web-map/issues">Request Feature</a>
+    <a href="https://github.com/SpencerVJones/PlacesScout/issues">Request Feature</a>
   </p>
 </div>
 
