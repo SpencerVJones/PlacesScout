@@ -1,8 +1,8 @@
 <div align="center">
-  <h2 align="center">Neighborhood Scout</h2>
+  <h2 align="center">Places Scout</h2>
   <div align="left">
 
-![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Folium-Web-map)
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/PlacesScout)
 
 </div>
 
@@ -26,12 +26,12 @@
 
 
 ![License](https://img.shields.io/badge/License-Proprietary-black?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/SpencerVJones/Folium-Web-map?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/SpencerVJones/Folium-Web-map?style=for-the-badge)
-![Stargazers](https://img.shields.io/github/stars/SpencerVJones/Folium-Web-map?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/SpencerVJones/Folium-Web-map?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/SpencerVJones/Folium-Web-map?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/SpencerVJones/Folium-Web-map?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/SpencerVJones/PlacesScout?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/SpencerVJones/PlacesScout?style=for-the-badge)
+![Stargazers](https://img.shields.io/github/stars/SpencerVJones/PlacesScout?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/SpencerVJones/PlacesScout?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/SpencerVJones/PlacesScout?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/SpencerVJones/PlacesScout?style=for-the-badge)
 
 ![Platform](https://img.shields.io/badge/Platform-Web-lightgrey.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,7 +66,7 @@
 - [Contact](#contact)
 
 ## Overview
-**Neighborhood Scout** is a global city scoring and exploration tool for relocation decisions.  
+**Places Scout** is a global city scoring and exploration tool for relocation decisions.  
 It combines public datasets with a weighted scoring model so you can compare cities by affordability, safety, transit, and amenities.
 
 This repository is structured as a **Python app + CLI workflow**, with Streamlit for interactive UI and Folium for map rendering.  
@@ -150,7 +150,7 @@ python3 generate_all_maps.py --min-population 50000 --output world_cities_map.ht
 - Review map + shortlist results and export CSV if needed.
  
 ## Roadmap
- - [ ] Add deployable public demo (Streamlit Cloud)
+ - [x] Add deployable public demo (Streamlit Cloud)
  - [ ] Expand test coverage for data fallback + sorting edge cases
  - [ ] Add richer comparison/insight views in-app
 
@@ -158,8 +158,8 @@ See open issues for a full list of proposed features (and known issues).
  
 
 ## Contributors
-<a href="https://github.com/SpencerVJones/Folium-Web-map/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SpencerVJones/Folium-Web-map"/>
+<a href="https://github.com/SpencerVJones/PlacesScout/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SpencerVJones/PlacesScout"/>
 </a>
 
 
@@ -177,4 +177,4 @@ No permission is granted to copy, modify, distribute, sublicense, or sell any po
 Spencer Jones
 📧 [SpencerVJones@outlook.com](mailto:SpencerVJones@outlook.com)  
 🔗 [GitHub Profile](https://github.com/SpencerVJones)  
-🔗 [Project Repository](https://github.com/SpencerVJones/Folium-Web-map)
+🔗 [Project Repository](https://github.com/SpencerVJones/PlacesScout)
