@@ -95,9 +95,13 @@ This repository is structured as a **Python app + CLI workflow**, with Streamlit
 - 🤖 CI pipeline with lint + automated unit tests
 
 ## Demo
-🔗 **Live:** Coming Soon
+🔗 **Live:** [https://placesscout.streamlit.app/](https://placesscout.streamlit.app/)
 
-Run locally using the commands below.
+
+
+https://github.com/user-attachments/assets/97b07092-42be-4ecb-addb-6f39bb3d24c5
+
+
 
 
 ## Project Structure
